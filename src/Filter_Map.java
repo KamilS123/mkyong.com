@@ -36,7 +36,8 @@ public class Filter_Map {
 //wybieranie po kluczu drugi sposób
         Map<Integer,String>mapPair2 = newMap7.entrySet().stream()
                 .filter(s->s.getKey()==3)
-                .
+                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue));
+        System.out.println(mapPair);
 
     }
     public static Map<Integer,String>filterJava7() {
