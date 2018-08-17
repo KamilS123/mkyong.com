@@ -41,7 +41,8 @@ public class List_to_Map {
         person.add(new List_to_Map("Jan","Kowalski",3));
         person.add(new List_to_Map("Marek","Muniek",2));
         person.add(new List_to_Map("Olek","Abrota",1));
-        person.add(new List_to_Map("Franek","Celinski",4));
+        person.add(new List_to_Map("Frane" +
+                "k","Celinski",4));
 
         System.out.println("Wyswietlenie mapy");
         Map<Integer,String>personMap = person.stream()
