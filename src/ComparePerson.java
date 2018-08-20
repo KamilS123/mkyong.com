@@ -34,7 +34,8 @@ public class ComparePerson {
         //sorting by age
         Collections.sort(personList, new Comparator<ComparePerson>() {
             @Override                                                   //sortuje personList po wieku
-            public int compare(ComparePerson o1, ComparePerson o2) {
+            public int compare(ComparePerson o1, ComparePerson o2)
+            {
                 return o1.age - o2.age;
             }
         });
