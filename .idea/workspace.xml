@@ -14,80 +14,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Stream_person_multiply_conditions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stream_person_multiply_conditions.java">
+      <file leaf-file-name="Print_Pyramid.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Print_Pyramid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="List_To_Uppercase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/List_To_Uppercase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="List_of_Objects_to_stream.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/List_of_Objects_to_stream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Filter_Map.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Filter_Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="437">
+              <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Map_to_List.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Map_to_List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="List_to_Map.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/List_to_Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#438#439#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
-                <element signature="e#494#495#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stream_Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Stream_Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -112,6 +46,10 @@
         <option value="$PROJECT_DIR$/src/Filter_Map.java" />
         <option value="$PROJECT_DIR$/src/List_to_Map.java" />
         <option value="$PROJECT_DIR$/src/Map_to_List.java" />
+        <option value="$PROJECT_DIR$/src/String_to_charArray.java" />
+        <option value="$PROJECT_DIR$/src/Array_to_List.java" />
+        <option value="$PROJECT_DIR$/src/Check_if_Array_contains_value.java" />
+        <option value="$PROJECT_DIR$/src/Print_Pyramid.java" />
       </list>
     </option>
   </component>
@@ -124,10 +62,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="781" />
     <option name="y" value="70" />
-    <option name="width" value="912" />
+    <option name="width" value="1057" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -177,29 +115,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Map_to_List">
-    <configuration name="Filter_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Filter_Map" />
+  <component name="RunManager" selected="Application.Print_Pyramid">
+    <configuration name="Array_to_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_to_List" />
       <module name="mkyong.com" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="List_To_Uppercase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List_To_Uppercase" />
-      <module name="mkyong.com" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="List_of_Objects_to_stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List_of_Objects_to_stream" />
-      <module name="mkyong.com" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="List_to_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List_to_Map" />
+    <configuration name="Check_if_Array_contains_value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Check_if_Array_contains_value" />
       <module name="mkyong.com" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="Map_to_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Map_to_List" />
+      <module name="mkyong.com" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Print_Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Print_Pyramid" />
+      <module name="mkyong.com" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="String_to_charArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_to_charArray" />
       <module name="mkyong.com" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -245,19 +183,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.List_To_Uppercase" />
-      <item itemvalue="Application.List_of_Objects_to_stream" />
-      <item itemvalue="Application.Filter_Map" />
-      <item itemvalue="Application.List_to_Map" />
       <item itemvalue="Application.Map_to_List" />
+      <item itemvalue="Application.String_to_charArray" />
+      <item itemvalue="Application.Array_to_List" />
+      <item itemvalue="Application.Check_if_Array_contains_value" />
+      <item itemvalue="Application.Print_Pyramid" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Print_Pyramid" />
+        <item itemvalue="Application.Check_if_Array_contains_value" />
+        <item itemvalue="Application.Array_to_List" />
+        <item itemvalue="Application.String_to_charArray" />
         <item itemvalue="Application.Map_to_List" />
-        <item itemvalue="Application.List_to_Map" />
-        <item itemvalue="Application.Filter_Map" />
-        <item itemvalue="Application.List_of_Objects_to_stream" />
-        <item itemvalue="Application.List_To_Uppercase" />
       </list>
     </recent_temporary>
   </component>
@@ -275,19 +213,19 @@
       <workItem from="1534247356996" duration="6064000" />
       <workItem from="1534418911706" duration="1193000" />
       <workItem from="1534509203280" duration="4413000" />
-      <workItem from="1534764819123" duration="609000" />
+      <workItem from="1534764819123" duration="11661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14188000" />
+    <option name="totallyTimeSpent" value="25240000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="781" y="70" width="912" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="781" y="70" width="1057" height="1000" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3299435" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -295,25 +233,24 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299435" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299435" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22433035" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19308357" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39959225" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,31 +428,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Stream_person_multiply_conditions.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/stream/IntStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="236">
+          <caret line="680" lean-forward="true" selection-start-line="680" selection-end-line="680" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/List_To_Uppercase.java">
+    <entry file="file://$PROJECT_DIR$/src/Array_to_List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="7">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String_to_charArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Map_to_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Filter_Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/List_of_Objects_to_stream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
+        <state relative-caret-position="330">
           <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/List_To_Uppercase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stream_person_multiply_conditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Check_if_Array_contains_value.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/List_to_Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        <state relative-caret-position="58">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#377#378#0" expanded="true" />
@@ -528,20 +516,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Filter_Map.java">
+    <entry file="file://$PROJECT_DIR$/src/Print_Pyramid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Map_to_List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="437">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
